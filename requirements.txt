@@ -1,0 +1,17 @@
+azure-cosmos
+pip~=22.2.2
+attrs~=21.4.0
+toml~=0.10.2
+cryptography~=37.0.2
+lxml~=4.8.0
+Pillow~=9.2.0
+Jinja2~=3.1.2
+six~=1.16.0
+trio~=0.20.0
+requests~=2.27.1
+urllib3~=1.26.9
+certifi~=2021.10.8
+idna~=3.3
+setuptools~=58.1.0
+Flask~=2.0.2
+Werkzeug~=2.2.1
